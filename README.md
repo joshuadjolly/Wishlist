@@ -1,4 +1,4 @@
-# Android Project 2 - *Wishliste*
+# Android Project 2 - *Wishlist*
 
 Submitted by: **Joshua Jolly**
 
